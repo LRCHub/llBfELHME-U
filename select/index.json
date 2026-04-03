@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "I Took A Pill In Ibiza (Seeb Remix)",
+  "base_artist": "Mike Posner",
+  "createdAt": "2026-04-03T08:59:41.241500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Took A Pill In Ibiza (Seeb Remix)",
+      "artist": "Mike Posner",
+      "has_synced": false,
+      "path": "select/01_I_Took_A_Pill_In_Ibiza_(Seeb_Remix)_Mike_Posner.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Took A Pill In Ibiza (Seeb Remix)",
+      "artist": "Mike Posner",
+      "has_synced": true,
+      "path": "select/02_I_Took_A_Pill_In_Ibiza_(Seeb_Remix)_Mike_Posner.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Took A Pill In Ibiza (Seeb Remix)",
+      "artist": "Mike Posner",
+      "has_synced": true,
+      "path": "select/03_I_Took_A_Pill_In_Ibiza_(Seeb_Remix)_Mike_Posner.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Took A Pill In Ibiza (Seeb Remix)",
+      "artist": "Mike Posner",
+      "has_synced": true,
+      "path": "select/04_I_Took_A_Pill_In_Ibiza_(Seeb_Remix)_Mike_Posner.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "--I-Took-A-Pill-In-Ibiza-(SeeB-Remix)-(Explicit)",
+      "artist": "Mike",
+      "has_synced": true,
+      "path": "select/05_--I-Took-A-Pill-In-Ibiza-(SeeB-Remix)-(Explicit)_Mike.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Took a Pill in Ibiza (Seeb Remix)",
+      "artist": "Mike Posner",
+      "has_synced": true,
+      "path": "select/06_I_Took_a_Pill_in_Ibiza_(Seeb_Remix)_Mike_Posner.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mike Posner - I Took a Pill in Ibiza (SeeB Remix) - 01 - I Took a Pill in Ibiza (SeeB remix)",
+      "artist": "Mike Posner",
+      "has_synced": true,
+      "path": "select/07_Mike_Posner_-_I_Took_a_Pill_in_Ibiza_(SeeB_Remix)_-_01_-_I_Took_a_Pill_in_Ibiza__Mike_Posner.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Took A Pill In Ibiza (Seeb Remix)",
+      "artist": "Mike Posner",
+      "has_synced": true,
+      "path": "select/08_I_Took_A_Pill_In_Ibiza_(Seeb_Remix)_Mike_Posner.lrc"
+    }
+  ]
+}
