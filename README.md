@@ -1,0 +1,67 @@
+# Mike Posner – I Took A Pill In Ibiza (Seeb Remix)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.12] I took a pill in Ibiza
+[00:02.62] To show Avicii I was cool
+[00:05.33] And when I finally got sober, felt ten years older
+[00:07.48] But fuck it, it was something to do
+[00:24.98] 
+[00:09.53] I'm living out in L.A.
+[00:12.10] I drive a sports car just to prove
+[00:14.52] I'm a real big baller 'cause I made a million dollars
+[00:16.73] And I spend it on girls and shoes
+[00:33.23] 
+[00:19.09] But you don't wanna be high like me
+[00:21.17] Never really knowing why like me
+[00:23.55] You don't ever wanna step off that roller coaster and be all alone
+[00:56.55] 
+[00:28.29] You don't wanna ride the bus like this
+[00:30.53] Never knowing who to trust like this
+[00:32.97] You don't wanna be stuck up on that stage singing
+[00:36.06] Stuck up on that stage singing
+[00:38.45] All I know are sad songs, sad songs
+[00:47.03] Darling, all I know are sad songs, sad songs
+[01:09.03] 
+[01:34.65] I'm just a singer who already blew his shot
+[01:39.14] I get along with old timers
+[01:40.50] 'Cause my name's a reminder of a pop song people forgot
+[02:08.00] 
+[01:43.46] And I can't keep a girl, no
+[01:46.37] 'Cause as soon as the sun comes up
+[01:48.91] I cut 'em all loose, and work's my excuse
+[01:51.08] But the truth is I can't open up
+[02:07.08] 
+[01:52.85] But you don't wanna be high like me
+[01:54.91] Never really knowing why like me
+[01:57.33] You don't ever wanna step off that roller coaster and be all alone
+[02:30.33] 
+[02:02.01] You don't wanna ride the bus like this
+[02:04.47] Never knowing who to trust like this
+[02:06.89] You don't wanna be stuck up on that stage singing
+[02:09.99] Stuck up on that stage singing
+[02:12.39] All I know are sad songs, sad songs
+[02:21.32] Darling, all I know are sad songs, sad songs (hey)
+[02:46.32] 
+[02:58.53] I took a plane to my hometown
+[03:00.38] I brought my pride and my guitar
+[03:01.95] All my friends are all gone, but there's manicured lawns
+[03:03.24] And the people still think I'm a star
+[03:21.74] 
+[03:04.30] I walked around downtown
+[03:05.39] I met some fans on Lafayette
+[03:06.42] They said, "Tell us how to make it 'cause we're getting real impatient"
+[03:07.78] So I looked 'em in the eye and said
+[03:25.28] 
+[03:08.25] You don't wanna be high like me
+[03:08.82] Never really knowing why like me
+[03:09.31] You don't ever wanna step off that roller coaster and be all alone
+[03:42.31] 
+[03:10.12] You don't wanna ride the bus like this
+[03:10.69] Never knowing who to trust like this
+[03:11.27] You don't wanna be stuck up on that stage singing
+[03:12.05] Stuck up on that stage singing
+[03:12.54] All that I know are sad songs, sad songs
+[03:13.11] Darling, all that I know are sad songs, sad songs
+```
